@@ -1,8 +1,8 @@
 @font-face {
 	font-family: 'code';
-	src: url('medel.eot');
-	src: url('medel.eot?#iefix') format('embedded-opentype'),
-		url('medel.woff') format('woff'),
-		url('medel.ttf') format('truetype'),
-		url('medel.svg') format('svg');
+	src: url('Medel.eot');
+	src: url('Medel.eot?#iefix') format('embedded-opentype'),
+		url('Medel.woff') format('woff'),
+		url('Medel.ttf') format('truetype'),
+		url('Medel.svg') format('svg');
 }
