@@ -150,10 +150,6 @@ center a{
   src: url('CODE Bold.oft'),
 }
 
-center .utubelogo{
-  margin-top:-300px;
-}
-
 center .gbmodtitle1 a{
   font-size:50px;
   float:left;
@@ -165,10 +161,27 @@ center .gbmodtitle1 a{
   src: url('CODE Bold.oft'),
 }
 
+center .gbmodtitle2 a{
+  font-size:50px;
+  float:left;
+  color:#3E3E3E;
+  margin-left:-770px;
+  margin-top:175px;
+  font-weight:bold;
+  font-family: code;
+  src: url('CODE Bold.oft'),
+}
+
 center .gbmodvideo1{
   float:left;
   margin-left:-343px;
   margin-top:50px;
+}
+
+center .gbmodvideo2{
+  float:right;
+  margin-right:534px;
+  margin-top:-2px;
 }
 
 center .gbmodtext1 a{
@@ -189,10 +202,34 @@ center .gbmodtext3 a{
   margin-top:15px;
 }
 
+center .gbmodtext4 a{
+  float:right;
+  margin-right:255px;
+  margin-top:-225px;
+}
+
+center .gbmodtext5 a{
+  float:right;
+  margin-right:313px;
+  margin-top:-180px;
+}
+
+center .gbmodtext6 a{
+  float:right;
+  margin-right:169px;
+  margin-top:-132px;
+}
+
 center .gbmod1{
   float:left;
   margin-left:25px;
   margin-top:30px;
+}
+
+center .gbmod2{
+  float:left;
+  margin-left:445px;
+  margin-top:-75px;
 }
 
 #articles{
@@ -200,9 +237,21 @@ center .gbmod1{
 	float: center;
 }
 
+#articlesmod{
+	
+	float: center;
+}
+
 #wrapper #articles article{
 	width: 957px;
 	height: 700px;
+	box-sizing: border-box;
+	background-color:#FFFFFF ;
+}
+
+#wrapper #articlesmod article{
+	width: 957px;
+	height: 1400px;
 	box-sizing: border-box;
 	background-color:#FFFFFF ;
 }
@@ -230,6 +279,14 @@ footer, #page-wrap:after{
 }
 #page-wrap{
 	min-height: 94%;
+}
+
+#icons{
+	margin:40px;
+}
+
+#iconsmods{
+	margin-top:800px;
 }
 
 /* Showcase */
