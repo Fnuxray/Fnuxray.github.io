@@ -172,6 +172,28 @@ center .gbmodtitle2 a{
   src: url('CODE Bold.oft'),
 }
 
+center .gbmodtitle3 a{
+  font-size:50px;
+  float:left;
+  color:#3E3E3E;
+  margin-left:22px;
+  margin-top:75px;
+  font-weight:bold;
+  font-family: code;
+  src: url('CODE Bold.oft'),
+}
+
+center .gbmodtitle4 a{
+  font-size:50px;
+  float:left;
+  color:#3E3E3E;
+  margin-left:-764px;
+  margin-top:84px;
+  font-weight:bold;
+  font-family: code;
+  src: url('CODE Bold.oft'),
+}
+
 center .gbmodvideo1{
   float:left;
   margin-left:-343px;
@@ -182,6 +204,18 @@ center .gbmodvideo2{
   float:right;
   margin-right:534px;
   margin-top:-2px;
+}
+
+center .gbmodvideo3{
+  float:right;
+  margin-right:534px;
+  margin-top:0px;
+}
+
+center .gbmodvideo4{
+  float:right;
+  margin-right:534px;
+  margin-top:0px;
 }
 
 center .gbmodtext1 a{
@@ -220,6 +254,54 @@ center .gbmodtext6 a{
   margin-top:-132px;
 }
 
+center .gbmodtext7 a{
+  float:right;
+  margin-right:313px;
+  margin-top:-225px;
+}
+
+center .gbmodtext8 a{
+  float:right;
+  margin-right:367px;
+  margin-top:-195px;
+}
+
+center .gbmodtext9 a{
+  float:right;
+  margin-right:169px;
+  margin-top:-165px;
+}
+
+center .gbmodtext10 a{
+  float:right;
+  margin-right:223px;
+  margin-top:-135px;
+}
+
+center .gbmodtext11 a{
+  float:right;
+  margin-right:247px;
+  margin-top:-105px;
+}
+
+center .gbmodtext12 a{
+  float:right;
+  margin-right:330px;
+  margin-top:-230px;
+}
+
+center .gbmodtext13 a{
+  float:right;
+  margin-right:325px;
+  margin-top:-180px;
+}
+
+center .gbmodtext14 a{
+  float:right;
+  margin-right:248px;
+  margin-top:-132px;
+}
+
 center .gbmod1{
   float:left;
   margin-left:25px;
@@ -227,6 +309,18 @@ center .gbmod1{
 }
 
 center .gbmod2{
+  float:left;
+  margin-left:445px;
+  margin-top:-75px;
+}
+
+center .gbmod3{
+  float:left;
+  margin-left:445px;
+  margin-top:-74px;
+}
+
+center .gbmod4{
   float:left;
   margin-left:445px;
   margin-top:-75px;
@@ -251,7 +345,7 @@ center .gbmod2{
 
 #wrapper #articlesmod article{
 	width: 957px;
-	height: 1400px;
+	height: 1700px;
 	box-sizing: border-box;
 	background-color:#FFFFFF ;
 }
@@ -286,7 +380,7 @@ footer, #page-wrap:after{
 }
 
 #iconsmods{
-	margin-top:800px;
+	margin-top:1350px;
 }
 
 /* Showcase */
