@@ -150,6 +150,15 @@ center a{
   src: url('CODE Bold.oft'),
 }
 
+center .about a{
+  font-size:50px;
+  float:left;
+  color:#3E3E3E;
+  font-weight:bold;
+  font-family: code;
+  src: url('CODE Bold.oft'),
+}
+
 center .gbmodtitle1 a{
   font-size:50px;
   float:left;
